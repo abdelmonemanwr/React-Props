@@ -1,3 +1,19 @@
+# Adding new student and project his data in the student's table.
+
+## Samples
+### (1) Design
+#### ![WhatsApp Image 2024-06-10 at 14 02 26_84f2962d](https://github.com/abdelmonemanwr/First-React-Project/assets/75037589/1738a5df-fde5-4582-a5fc-ac76d9f5f863)
+
+### (2) Adding new student
+#### ![react-day2_3](https://github.com/abdelmonemanwr/First-React-Project/assets/75037589/68d6de77-708a-44ae-a893-a8601eb90666)
+
+### (3) Deleting one student
+#### ![react-day2_4](https://github.com/abdelmonemanwr/First-React-Project/assets/75037589/d34f47f7-1543-4987-b71f-d70fcaaf673f)
+
+
+### (4) Form Validations
+#### ![react-day2_5](https://github.com/abdelmonemanwr/First-React-Project/assets/75037589/0a29434e-1fe2-4419-9b24-55662df2cdc9)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +84,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Arena Play Station First React Project
